@@ -1,0 +1,38 @@
+
+Running LIFO algorithm:
+Page faults for process 100: 23
+Page faults for process 101: 18
+Page faults for process 102: 12
+***** TOTAL PAGE FAULTS: 53 *****
+
+Running MRU algorithm:
+Page faults for process 100: 14
+Page faults for process 101: 10
+Page faults for process 102: 5
+***** TOTAL PAGE FAULTS: 29 *****
+
+Running LRU algorithm:
+Page faults for process 100: 23
+Page faults for process 101: 18
+Page faults for process 102: 12
+***** TOTAL PAGE FAULTS: 53 *****
+
+Running LFU algorithm:
+Page faults for process 100: 13
+Page faults for process 101: 13
+Page faults for process 102: 5
+***** TOTAL PAGE FAULTS: 31 *****
+
+Running OPT algorithm:
+Page faults for process 100: 11
+Page faults for process 101: 12
+Page faults for process 102: 4
+***** TOTAL PAGE FAULTS: 27 *****
+
+Running WS algorithm:
+Page faults for process 100: 15
+Page faults for process 101: 18
+Page faults for process 102: 5
+***** TOTAL PAGE FAULTS: 38 *****
+Minimum WS size: 0
+Maximum WS size: 0
